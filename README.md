@@ -53,7 +53,6 @@ Query 5: Monthly trending for revenue and margin by product.
 Query 6: Impact of introducing new products on sessions, click-through rates, and conversion rates.  
 Query 7: Sales data since the introduction of the 4th product and cross-sell analysis.
 ## How to Use
-Clone the repository: git clone [repository_url]
 Execute the MySQL queries in a MySQL database containing the MavenFuzzyFactory data.
 Review the results and visualizations generated from the queries.
 Feel free to explore, modify, and adapt the queries based on your specific requirements.
